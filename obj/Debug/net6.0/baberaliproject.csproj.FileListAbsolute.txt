@@ -1,0 +1,8 @@
+C:\Users\Baber ali\Desktop\baberaliproject\baberaliproject\obj\Debug\net6.0\baberaliproject.csproj.AssemblyReference.cache
+C:\Users\Baber ali\Desktop\baberaliproject\baberaliproject\obj\Debug\net6.0\baberaliproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baber ali\Desktop\baberaliproject\baberaliproject\obj\Debug\net6.0\baberaliproject.AssemblyInfoInputs.cache
+C:\Users\Baber ali\Desktop\baberaliproject\baberaliproject\obj\Debug\net6.0\baberaliproject.AssemblyInfo.cs
+C:\Users\Baber ali\Desktop\baberaliproject\baberaliproject\obj\Debug\net6.0\baberaliproject.csproj.CoreCompileInputs.cache
+C:\Users\Baber ali\Desktop\baberaliproject\baberaliproject\obj\Debug\net6.0\baberaliproject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Baber ali\Desktop\baberaliproject\baberaliproject\obj\Debug\net6.0\baberaliproject.RazorAssemblyInfo.cache
+C:\Users\Baber ali\Desktop\baberaliproject\baberaliproject\obj\Debug\net6.0\baberaliproject.RazorAssemblyInfo.cs
